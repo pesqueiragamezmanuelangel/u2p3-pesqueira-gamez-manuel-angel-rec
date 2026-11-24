@@ -1,5 +1,5 @@
 <!-- título del repo: cambia por tus nombres reales -->
-# U2p2 — Pesqueira Gamez Manuel Angel
+# U2p3 — Pesqueira Gamez Manuel Angel
 
 <!-- sección con los pasos para correr el proyecto en otra computadora -->
 ## Cómo correrlo localmente
@@ -18,3 +18,20 @@
 ## Evidencia
 
 Se evidencio que la aplicacion esta corriendo de manera local, la base de datos esta siendo hosteada por medio de Aiven y manejada/manipulada por medio de DBeaver.
+
+<!-- sección con la URL pública de Render -->
+## Demo en vivo (producción)
+<!-- tu dirección real de Render -->
+https://u2p3-pesqueira-gamez-manuel-angel-rec.onrender.com/
+
+<!-- sección con la URL del panel de administración -->
+## Panel de administración
+<!-- misma dirección + /admin -->
+https://u2p3-pesqueira-gamez-manuel-angel-rec.onrender.com/admin/
+
+<!-- resumen de lo que hiciste esta semana -->
+## Semana 4 — Modelos y despliegue dinámico
+<!-- primera línea del resumen -->
+Modelo Servicio migrado a MySQL, Web Service publicado en Render,
+<!-- segunda línea del resumen -->
+5 registros reales cargados desde /admin.
